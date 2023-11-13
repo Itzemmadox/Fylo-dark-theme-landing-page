@@ -727,12 +727,13 @@ padding: 35px 35px 0px !important;
     margin: 5px 15px 0px 0px;
 }
 
-.more-info p a{
+.more-info p a, .sitenum p a{
     text-decoration: none;
     color: var(--White-off);
 }
 
-.more-info p a:hover, .more-info p a:focus{
+.more-info p a:hover, .more-info p a:focus,
+.sitenum p a:hover, .sitenum p a:focus{
     color: var(--white);
 }
 
