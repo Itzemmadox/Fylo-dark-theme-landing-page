@@ -701,10 +701,10 @@ padding: 35px 35px 0px !important;
 
 .info{
     height: 100%;
-    padding-block: 7rem 30px;
+    padding-block: 8rem 30px;
     flex-wrap: wrap;
     padding-inline: 6rem 4.5rem;
-    column-gap: 6.5rem;
+    column-gap: 6rem;
 }
 
 .info-img{
